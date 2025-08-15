@@ -132,7 +132,7 @@ const App = () => {
     { id: 34, nama: 'DIANA FATIMAH AZ ZAHRO', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 35, nama: 'GADIS ECSILIA', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 36, nama: 'HANUM NUR MAULIDA', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
-    { id: 37, nama: 'IFFAH FADHILAH SHOFAWATI', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
+    { id: 37, nama: 'IFFAH FADHILAH SHOFAWATI', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 38, nama: 'MAYA ARIFA MAIMUNA', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 39, nama: 'MUFIDA ILMA SOFIA', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 40, nama: 'NABILA FATYA BALQIS', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
