@@ -101,7 +101,7 @@ const App = () => {
     { id: 3, nama: 'ANDINA DEWI NURMALINA', jan: 0, feb: 0, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 4, nama: 'ANGGI SUKMA INDAH', jan: 25000, feb: 35000, mar: 35000, apr: 0, mei: 35000, jun: 35000, jul: 35000, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 5, nama: 'ANNA LIYA NAJWA LAILA', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: null, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
-    { id: 6, nama: 'AULIA ARIFA', jan: 35000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
+    { id: 6, nama: 'AULIA ARIFA', jan: 35000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 7, nama: 'AYU SANIATUS SHOLIHAH', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 8, nama: 'FARADINA LATIVA', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 9, nama: 'FATWA ISNAYA ECHA ANASTASYA', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
