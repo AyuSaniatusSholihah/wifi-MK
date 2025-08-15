@@ -162,7 +162,7 @@ const App = () => {
   { id: 14, tanggal: 'Selasa, 08 Juli 2025', pemasukan: 0, pengeluaran: 727100, keterangan: 'pembayaran wifi Juli', saldo: -276700 },
   { id: 15, tanggal: 'Kamis, 31 Juli 2025', pemasukan: 685000, pengeluaran: 0, keterangan: 'total pemasukan wifi Juli', saldo: 388300 },
   { id: 16, tanggal: 'Kamis, 07 Agustus 2025', pemasukan: 0, pengeluaran: 727100, keterangan: 'pembayaran wifi Agustus', saldo: -338800 },
-  { id: 17, tanggal: 'Jumat, 15 Agustus 2025', pemasukan: 720000, pengeluaran: 0, keterangan: 'total pemasukan wifi Agustus', saldo: 351200 },
+  { id: 17, tanggal: 'Jumat, 15 Agustus 2025', pemasukan: 720000, pengeluaran: 0, keterangan: 'total pemasukan wifi Agustus', saldo: 381200 },
 ]);
 
   const [newSantri, setNewSantri] = useState({
