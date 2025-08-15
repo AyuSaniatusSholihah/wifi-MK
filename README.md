@@ -1,4 +1,4 @@
-# Dashboard Manajemen WiFi Pesma Putri Miftahul Khoirot
+# Dashboard Manajemen WiFi Pesma Miftahul Khoirot
 
 Aplikasi web berbasis React yang dirancang untuk memudahkan pengelolaan dan pemantauan pembayaran iuran WiFi bulanan untuk santri putri di Pesma Putri Miftahul Khoirot. Aplikasi ini memiliki dua mode tampilan: **Admin** untuk manajemen data lengkap dan **User** untuk melihat riwayat pembayaran pribadi.
 
@@ -53,7 +53,7 @@ Untuk menjalankan proyek ini di komputer lokal Anda, ikuti langkah-langkah berik
     ```bash
     npm start
     ```
-    Aplikasi akan berjalan dan bisa diakses di [http://localhost:3000](http://localhost:3000).
+    Aplikasi akan berjalan dan bisa diakses di [http://localhost:5173/](http://localhost:5173/).
 
 ---
 
