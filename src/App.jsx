@@ -98,14 +98,14 @@ const App = () => {
     const [santriData, setSantriData] = useState([
     { id: 1, nama: 'ADILA HANY FUTHNA', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 2, nama: 'AIFA ZAHDA AULIA AHMAD', jan: 0, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: null, jul: 0, agu: 0, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
-    { id: 3, nama: 'ANDINA DEWI NURMALINA', jan: 0, feb: 0, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
+    { id: 3, nama: 'ANDINA DEWI NURMALINA', jan: 0, feb: 0, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 4, nama: 'ANGGI SUKMA INDAH', jan: 25000, feb: 35000, mar: 35000, apr: 0, mei: 35000, jun: 35000, jul: 35000, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 5, nama: 'ANNA LIYA NAJWA LAILA', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: null, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 6, nama: 'AULIA ARIFA', jan: 35000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 7, nama: 'AYU SANIATUS SHOLIHAH', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 8, nama: 'FARADINA LATIVA', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 9, nama: 'FATWA ISNAYA ECHA ANASTASYA', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
-    { id: 10, nama: 'IRDINA MAZIYATUN NAFISAH', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
+    { id: 10, nama: 'IRDINA MAZIYATUN NAFISAH', jan: 25000, feb: 35000, mar: 35000, apr: 35000, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 11, nama: 'ITSNA ROHMANIA', jan: 25000, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 0, sep: 0, okt: 0, nov: 0, des: 0, keterangan: 'Boyong' },
     { id: 12, nama: 'IZZA AYU MEIVIA', jan: 25000, feb: 35000, mar: 35000, apr: null, mei: 35000, jun: 35000, jul: 35000, agu: null, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 13, nama: 'JULIA SULISTYAWATI', jan: 0, feb: 35000, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 0, sep: 0, okt: 0, nov: 0, des: 0, keterangan: 'Boyong' },
@@ -142,7 +142,7 @@ const App = () => {
     { id: 44, nama: 'SAYYIDATINA KAAFUUROO AL JANNAH', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: null, agu: 0, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
     { id: 45, nama: 'MUNIF', jan: 0, feb: 35000, mar: 0, apr: 0, mei: 35000, jun: 35000, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '+5k' },
     { id: 46, nama: 'YAQIN (KI SEPUH)', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 35000, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '+85k' },
-
+    { id: 47, nama: 'FIKI', jan: 0, feb: 0, mar: 0, apr: 0, mei: 0, jun: 0, jul: 0, agu: 30000, sep: 0, okt: 0, nov: 0, des: 0, keterangan: '' },
   ]);
 
   const [paymentData, setPaymentData] = useState([
